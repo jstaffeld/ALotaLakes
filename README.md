@@ -8,13 +8,15 @@ This is a work in progress and extemely basic at the moment.
 
 [Page Template](https://jstaffeld.github.io/ALotaLakes/page_template.html)
 
-Full Of Fish Lake
-Little Too Much Lake
-Blueberry Lake
-Bde Mka Ska (Lake Calhoun)
-Leech Lake
-[Jock Mock Lake](https://jstaffeld.github.io/ALotaLakes/jockmocklake.html)
+
+1. Full Of Fish Lake
+2. Little Too Much Lake
+3. Blueberry Lake
+4. Bde Mka Ska (Lake Calhoun)
+5. Leech Lake
+6. [Jock Mock Lake](https://jstaffeld.github.io/ALotaLakes/jockmocklake.html)
+7. Stray Horse Lake
+8. Lake Wobegon
+9. Wench Lake
+
 Lake Street
-Stray Horse Lake
-Lake Wobegon
-Wench Lake
