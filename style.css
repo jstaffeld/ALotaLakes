@@ -1,0 +1,61 @@
+html {
+    background: url(images/JockMockLake.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+                                                                                                        
+.main_title {
+    font: 70px Tahoma, Helvetica, Arial, Sans-Serif;
+    text-align: left;
+    text-shadow: 0 2px 3px #555;
+    position: relative;
+    left: 30px;
+}
+                                                                                                        
+.sub_title {
+    font: 24px Tahoma, Helvetica, Arial, Sans-Serif;
+    color: rgb(43, 42, 42);
+    text-align: left;
+    text-shadow: 0 1px 3px #555;
+    position: relative;
+    left: 50px;
+    top: -15px;
+}
+                                                                                                        
+.article {
+    position: relative;
+    border: 1px solid black;
+    margin: 0 auto;
+    top: 100px;
+    width: 60%;
+    height: auto;
+    background-color: #ffffff;
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+    /* For IE8 and earlier */
+    padding-bottom: 50px;
+}
+                                                                                                        
+.article p {
+    color: black;
+    margin: 5%;
+}
+                                                                                                        
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: 100% background-color: #555;
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+                                                                                                        
+@media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+                                                                                                            
+@media only screen and (min-width: 768px) {
+            /* For desktop: */
