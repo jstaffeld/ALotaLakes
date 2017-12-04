@@ -1,11 +1,3 @@
-html {
-    background: url(images/JockMockLake.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-                                                                                                        
 .main_title {
     font: 70px Tahoma, Helvetica, Arial, Sans-Serif;
     text-align: left;
